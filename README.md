@@ -15,7 +15,7 @@ The script deploys at subscription scope (required when creating a resource grou
 
 Quick start (runs dev then prod if both param files exist):
 ```bash
-cd /mnt/c/Users/EsperlynGuanco/Codes/modular-bicep
+cd /mnt/c/Users/username/Codes/modular-bicep
 chmod +x ./deploy.sh
 ./deploy.sh --location eastus
 ```
